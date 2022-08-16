@@ -1,0 +1,8 @@
+/home/debian/cppProjects/cppCMakeStart/CMakeFiles/edit_cache.dir
+/home/debian/cppProjects/cppCMakeStart/CMakeFiles/rebuild_cache.dir
+/home/debian/cppProjects/cppCMakeStart/src/OS_help/CMakeFiles/OS_help.dir
+/home/debian/cppProjects/cppCMakeStart/src/OS_help/CMakeFiles/edit_cache.dir
+/home/debian/cppProjects/cppCMakeStart/src/OS_help/CMakeFiles/rebuild_cache.dir
+/home/debian/cppProjects/cppCMakeStart/src/CMakeFiles/cpp_main_CM.dir
+/home/debian/cppProjects/cppCMakeStart/src/CMakeFiles/edit_cache.dir
+/home/debian/cppProjects/cppCMakeStart/src/CMakeFiles/rebuild_cache.dir

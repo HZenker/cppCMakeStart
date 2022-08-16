@@ -1,0 +1,23 @@
+#!/bin/bash
+
+#.gitignore
+#project cppCMakeStart
+
+*.log
+Makefile
+
+*.cmake
+
+/src/CMakefiles/**
+/src/OS_help/CMakeFiles/**
+/src/OS_help/*.a
+/src/OS_help/Makefile
+/src/*.cmake
+/src/CMakeCache.txt
+/src/cpp_main_CM
+/src/Makefile
+
+build/
+buildWGUI/
+
+/.vscode/*.log
