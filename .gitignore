@@ -5,13 +5,14 @@
 
 *.log
 Makefile
-
+CMakeCache.txt
 *.cmake
+*.d
 
-/src/CMakefiles/**
-/src/OS_help/CMakeFiles/**
-/src/OS_help/*.a
-/src/OS_help/Makefile
+src/CMakefiles/**
+src/OS_help/CMakeFiles/**
+src/OS_help/*.a
+src/OS_help/Makefile
 /src/*.cmake
 /src/CMakeCache.txt
 /src/cpp_main_CM
