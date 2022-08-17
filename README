@@ -1,0 +1,5 @@
+cpp Linux project with the possibility to use the debugger under vs-code. 
+There is also a library that is built and linked with cmake for demonstration purposes. 
+The project is developed further and contains (later) branches.
+
+Not only the CMakeLists.txt files are important, but also the use of the vs-code json files: launch, settings & tasks. It's also a good idea to use vs-code insiders rather than vs-code. 
